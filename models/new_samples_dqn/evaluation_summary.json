@@ -1,0 +1,14 @@
+{
+  "total_test_cases": 2000,
+  "insecure_cases_needing_mitigation": 1321,
+  "no_action_safe_pct": 34.0,
+  "rl_agent_safe_pct": 49.3,
+  "offline_best_safe_pct": 49.8,
+  "rl_mitigation_success_pct": 23.2,
+  "policy_alignment_top1_pct": 63.3,
+  "policy_alignment_top3_pct": 71.3,
+  "avg_rl_load_shed_mw": 0.118,
+  "avg_offline_load_shed_mw": 0.075,
+  "train_time_seconds": 741.7,
+  "eval_time_seconds": 567.3
+}

@@ -9,7 +9,9 @@ data/ml_ready/
 data/processed/
 
 # Trained models (binary, regenerable)
-models/
+# models/
+*.zip
+models_test/
 
 # Presentation & design documents
 HIGH_LEVEL_DESIGN.md
